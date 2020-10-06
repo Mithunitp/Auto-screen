@@ -1,2 +1,3 @@
 # Auto-screen
-Project component of Microprocessor and Interfacing course.
+An automatic hand sanitizer dispenser and temperature scanner as part of Microprocessor and Interfacing course.
+ 
